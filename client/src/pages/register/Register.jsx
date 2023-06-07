@@ -32,11 +32,11 @@ const Register = () => {
     <div className="register">
       <div className="card">
         <div className="left">
-          <h1>Lama Social.</h1>
+          <h1>ART FOLIO.</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-            alias totam numquam ipsa exercitationem dignissimos, error nam,
-            consequatur.
+          Unlock a world of artistic possibilities. Join ArtFolio and become part of our thriving artist community.
+          Register now to showcase your talent, connect with fellow creators, and embark on an inspiring journey of self-expression.
+          Let your artistry shine through. Sign up today!
           </p>
           <span>Do you have an account?</span>
           <Link to="/login">

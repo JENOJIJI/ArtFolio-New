@@ -1,5 +1,4 @@
 import express from "express";
-const app = express();
 import authRoutes from "./routes/auth.js";
 import userRoutes from "./routes/users.js";
 import postRoutes from "./routes/posts.js";
@@ -9,7 +8,7 @@ import relationshipRoutes from "./routes/relationships.js";
 import cors from "cors";
 import multer from "multer";
 import cookieParser from "cookie-parser";
-
+const app = express();
 //middlewares
 app.use((req, res, next) => {
   res.header("Access-Control-Allow-Credentials", true);
@@ -47,5 +46,6 @@ app.use("/api/likes", likeRoutes);
 app.use("/api/relationships", relationshipRoutes);
 
 app.listen(8800, () => {
-  console.log("API working!");
+  console.log("Server Successfully Running!");
 });
+    

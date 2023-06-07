@@ -12,11 +12,11 @@ const RightBar = () => {
                 src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
-              <span>Jane Doe</span>
+              <span>Jeno Jiji</span>
             </div>
             <div className="buttons">
-              <button>follow</button>
-              <button>dismiss</button>
+              <button>Follow</button>
+              <button>Dismiss</button>
             </div>
           </div>
           <div className="user">
@@ -25,11 +25,11 @@ const RightBar = () => {
                 src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
-              <span>Jane Doe</span>
+              <span>Jeno Jiji</span>
             </div>
             <div className="buttons">
-              <button>follow</button>
-              <button>dismiss</button>
+              <button>Follow</button>
+              <button>Dismiss</button>
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Jeno Jiji</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -54,7 +54,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Jeno Jiji</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>

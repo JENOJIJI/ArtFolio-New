@@ -31,11 +31,10 @@ const Login = () => {
     <div className="login">
       <div className="card">
         <div className="left">
-          <h1>Hello World.</h1>
+          <h1>ART FOLIO.</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-            alias totam numquam ipsa exercitationem dignissimos, error nam,
-            consequatur.
+          Step into a vibrant world of artistry and imagination. Join our exclusive community for artists, where inspiration knows no bounds.
+          Embrace the extraordinary and let your creativity soar. Discover, connect, and create wonders. Welcome to ArtFolio.
           </p>
           <span>Don't you have an account?</span>
           <Link to="/register">

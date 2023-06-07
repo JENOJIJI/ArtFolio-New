@@ -32,7 +32,7 @@ const LeftBar = () => {
           </div>
           <div className="item">
             <img src={Friends} alt="" />
-            <span>Friends</span>
+            <span>Followers</span>
           </div>
           <div className="item">
             <img src={Groups} alt="" />
@@ -56,15 +56,15 @@ const LeftBar = () => {
           <span>Your shortcuts</span>
           <div className="item">
             <img src={Events} alt="" />
-            <span>Events</span>
+            <span>Exhibitions</span>
           </div>
           <div className="item">
             <img src={Gaming} alt="" />
-            <span>Gaming</span>
+            <span>Art Battles</span>
           </div>
           <div className="item">
             <img src={Gallery} alt="" />
-            <span>Gallery</span>
+            <span>Art Space</span>
           </div>
           <div className="item">
             <img src={Videos} alt="" />
@@ -84,11 +84,11 @@ const LeftBar = () => {
           </div>
           <div className="item">
             <img src={Tutorials} alt="" />
-            <span>Tutorials</span>
+            <span>Art Tutorials</span>
           </div>
           <div className="item">
             <img src={Courses} alt="" />
-            <span>Courses</span>
+            <span>Art Courses</span>
           </div>
         </div>
       </div>
